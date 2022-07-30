@@ -42,8 +42,6 @@ h2 {
   border-top: 20px;
   padding: 10px;
 }
-
-
 h4 {
   margin-block-start: 1.33em;
   margin-block-end: 1.33em;
@@ -51,11 +49,9 @@ h4 {
   margin-inline-end: 0px;
   font-weight: bold;
 }
-
 a {
   text-decoration: none;
 }
-
 p {
   color: white;
   text-align: center;
@@ -104,4 +100,7 @@ a {
 
 .footer_text {
   color: hsl(46, 76%, 49%);
+}
+.button{
+  align-items: center;
 }
