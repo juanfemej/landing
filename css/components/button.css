@@ -10,7 +10,7 @@
   text-align: center;
   text-decoration: none;
   background: hls(46, 20%, 49%);
-  transition: background 0.3s ease;
+  transition: background 0.5s ease-in-out;
 }
 }
 
