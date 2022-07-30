@@ -3,13 +3,11 @@
   margin: auto;
   align-items: center;
   background-color: hsl(46, 76%, 49%);
-  padding: 12px 10px !important;
+  padding: 15px 25px !important;
   margin-top: 3rem;
   border-radius: 50px;
-  color: rgb(244, 235, 235);
   text-align: center;
   text-decoration: none;
-  background: hls(46, 20%, 49%);
   transition: background 0.5s ease-in-out;
 }
 }
