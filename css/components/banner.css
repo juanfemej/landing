@@ -1,0 +1,11 @@
+.container {
+  width:900px;
+  margin: auto;
+}
+
+.banner {
+  background-image: url(/landing/images/nasa-Q1p7bh3SHj8-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}

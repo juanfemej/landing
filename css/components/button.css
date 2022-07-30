@@ -1,0 +1,17 @@
+.btn-primary {
+  display:inline-block;
+  margin: auto;
+  align-items: center;
+  background-color: hsl(46, 76%, 49%);
+  padding: 12px 10px !important;
+  margin-top: 3rem;
+  border-radius: 50px;
+  color: rgb(244, 235, 235);
+  text-align: center;
+  text-decoration: none;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
