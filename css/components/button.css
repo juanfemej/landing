@@ -13,7 +13,6 @@
   overflow: hidden;
   cursor: pointer;
 }
-
 .btn-primary:after {
   content: "";
   background-color: grey;
@@ -26,8 +25,7 @@
   opacity: 0;
   transition: all 0.8s
 }
-
-.button:active:after {
+.btn-primary:active:after {
   padding: 0;
   margin: 0;
   opacity: 1;
